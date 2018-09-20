@@ -11,7 +11,7 @@
 		font-family: _font(family);
 		font-size: 16pt;
 		font-weight: _font(weight);
-		line-height: 1.75;
+		line-height: 1.5;
 
 		@include breakpoint(xlarge) {
 			font-size: 14pt;
@@ -51,7 +51,7 @@
 	}
 
 	h1 {
-		font-size: 2.75em;
+		font-size: 2.0em;
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold-alt);
 		line-height: 1.3;
@@ -81,7 +81,6 @@
 		font-weight: _font(weight-bold);
 		line-height: 1.5;
 		margin: 0 0 (_size(element-margin) * 1) 0;
-		text-transform: uppercase;
 		letter-spacing: _font(letter-spacing);
 
 		a {
@@ -209,4 +208,3 @@
 			margin-top: 0;
 		}
 	}
-
