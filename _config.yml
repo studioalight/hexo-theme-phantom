@@ -12,9 +12,10 @@ logo_src:
 subtitle_main: Wherever you might land – we may be there
 
 # Theme Secondary subtitle
-subtitle_secondary: We are excited to have been selected to take part in a piece exhibited in the Dutch Pavilion, <a href="https://work-body-leisure.hetnieuweinstituut.nl">WORK, BODY, LEISURE</a> of the 2018 Venice Biennale with the PRIOR ART AUTOMATON.
+#subtitle_secondary: It has been a pleasure to have been selected and taken part in a piece exhibited in the Dutch Pavilion, <a href="https://work-body-leisure.hetnieuweinstituut.nl">WORK, BODY, LEISURE</a> of the 2018 Venice Biennale with the PRIOR ART AUTOMATON. Then, after Venice, the exhibition content has traveled through the Autumn 2018 and has been displayed at the V&A in London as part of the London Design Festival and, also, shown at the Het Nieuwe Instituut in Rotterdam. 
+subtitle_secondary: Currently we are showing our piece "Choice Bubble" on the <a href="https://wayoutwest.se">Way Out West</a> festival in Gothenburg, 8 - 10 August 2019.
 
-subtitle_tertiary: We are also exploring data mining, mapping power structures, visualising the law and the relationship possibilities between Artificial Intelligence and the law. So, please,  stay tuned.
+subtitle_tertiary: Concurrently, we are preparing for our upcoming solo exhbition Rob Law at <a href="https://icia.se">ICIA</a>, Ringön Gothenburg in the end of August. Please stay tuned for more details
 
 # Footer About Section
 about_footer:
@@ -42,7 +43,7 @@ comments:
     comment_colorscheme: light
 
 # Google Analytics Tracking ID
-google_analytics: UA-126967389-2
+google_analytics:
 
 # Social Accounts
 twitter_url: https://twitter.com/studio_alight
